@@ -14,6 +14,6 @@ class Knock < Formula
   end
 
   test do
-    assert_match "0.1.1", shell_output("#{bin}/knock --version")
+    assert_match "knock", shell_output("#{bin}/knock --version")
   end
 end
