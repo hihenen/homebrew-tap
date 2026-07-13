@@ -1,9 +1,9 @@
 class Knock < Formula
   desc "Desktop approval / annotation / question gate for AI coding agents"
   homepage "https://github.com/hihenen/knock"
-  url "https://github.com/hihenen/knock/releases/download/v0.4.7/knock-macos-aarch64"
-  version "0.4.7"
-  sha256 "43032c751602068233a7a1f29177874676d7939ff6caa8b80c198118bf28307c"
+  url "https://github.com/hihenen/knock/releases/download/v0.5.0/knock-macos-aarch64"
+  version "0.5.0"
+  sha256 "287e1c5d253d7dbfc7c35c8422ad5adcfa52f7b441c4fe4593645716e7916133"
   license "MIT"
 
   # Apple Silicon only (the released binary is arm64).
